@@ -7,7 +7,8 @@ hrefTargetBlank = false
 languageCode = "en-us"
 languageLang = "en"
 relativeURLs = false
-title = "My New Hugo Site"
+title = "The Proficient Engineer"
+theme = "sawmill"
 [[menu.main]]
 identifier = "home"
 name = "Home"

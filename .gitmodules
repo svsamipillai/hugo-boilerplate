@@ -1,0 +1,3 @@
+[submodule "hugo/themes/sawmill"]
+	path = hugo/themes/sawmill
+	url = https://github.com/dwalkr/sawmill.git
